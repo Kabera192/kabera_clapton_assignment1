@@ -1,0 +1,28 @@
+package com.kabera;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
+public class LoginServlet extends HttpServlet {
+	
+	public void service(HttpServletRequest req, HttpServletResponse res) throws IOException {
+		
+		String name = req.getParameter("email");
+		String password = req.getParameter("passwd");
+		
+		PrintWriter out = res.getWriter();
+		
+		if(!name.equals("kabera@gmail.com") || !password.equals("123kabera##")) {
+			out.println("Aaahhh young man!! You forgot your credentials!!");
+			return;
+		}else {
+			out.println("Welcome to your lovely account!");
+			return;
+		}
+	}
+
+}

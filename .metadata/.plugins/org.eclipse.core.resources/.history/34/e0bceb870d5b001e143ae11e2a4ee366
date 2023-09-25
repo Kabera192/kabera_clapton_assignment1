@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="StudentAuthApp">
+        <property name="context-root" value="StudentAuthApp"/>
+    </wb-module>
+</project-modules>

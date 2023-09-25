@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Student Login</title>
+</head>
+<body>
+	<header>
+		STUDENT PORTAL
+	</header>
+	<main>
+		<form>
+			<label>Username or Email</label>
+			<input type="text" name="username"><br>
+			<label>Password</label>
+			<input type="password" name="passwd"><br>
+			<button type="submit">Login</button>
+		</form>
+	</main>
+</body>
+</html>

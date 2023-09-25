@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/Applications/Google Chrome.app" name\="Chrome"/>\n<external location\="/Applications/Safari.app" name\="Safari"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/DemoApp/add?num1\=12&num2\=65|*|http\://localhost\:8080/DemoApp/index.html|*|http\://localhost\:8080/DemoApp/add?num1\=46&num2\=7|*|http\://localhost\:8080/DemoApp/add?num1\=33&num2\=53|*|http\://localhost\:8080/DemoApp/add?num1\=3&num2\=3|*|http\://localhost\:8080/DemoApp/add?num1\=12&num2\=68|*|http\://localhost\:8080/DemoApp/add?num1\=1&num2\=2|*|http\://localhost\:8080/DemoApp/add?num1\=13&num2\=11|*|http\://localhost\:8080/DemoApp/add?num1\=12&num2\=34|*|http\://localhost\:8080/DemoApp/add?num1\=12&num2\=43|*|http\://localhost\:8080/DemoApp/add?num1\=&num2\=|*|http\://localhost\:8080/DemoApp/add?num1\=12&num2\=18|*|
